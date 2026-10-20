@@ -1,4 +1,4 @@
-# Birdle 🕊
+# CanDLE 🕊
 
 Birdle is a small Flutter game inspired by Wordle. The player has a limited
 number of attempts to guess a five-letter English word. After each guess, tile
